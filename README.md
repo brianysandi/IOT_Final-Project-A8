@@ -21,7 +21,9 @@
 ![image](https://github.com/brianysandi/IOT_Final-Project-A8/assets/84609758/a82c32f6-c94e-4a97-8c54-40eb97d90232)
 
 <p align="justify">Example 2 Result: "This test will check how accurate the device is to record our voice based on what we say.""</p>
+
 ![image](https://github.com/brianysandi/IOT_Final-Project-A8/assets/84609758/67c36c45-b5b0-4667-8dae-b15e7b64f9a2)
+
 <p align="justify">In Example 1, a total of 4 out of 22 words exhibited inaccuracies in transcription. In Example 2, 3 out of 19 words were not transcribed accurately. It's noteworthy that the inaccuracies primarily occurred in specific technical terms and were influenced by factors such as pronunciation variations and background noise.</p>
 
 
