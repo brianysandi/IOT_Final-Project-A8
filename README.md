@@ -10,5 +10,5 @@
 </p>
 
 ## Network Infrastructure
-<img href="![image](https://github.com/brianysandi/IOT_Final-Project-A8/assets/84609758/78365b7d-ee6b-4173-95a1-65c1dced1ae7)
-">
+![image](https://github.com/brianysandi/IOT_Final-Project-A8/assets/84609758/89d97ca1-c31b-43e0-9a73-6fda95a0c152)
+
